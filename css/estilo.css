@@ -2,13 +2,8 @@
     margin: 0%;
     padding: 0%;
 }
-html {
-    font-family: 'Bebas Neue', cursive;
-}
-head{
-    font-family: 'Bebas Neue', cursive;
-}
 body{   
+    font-family: 'Bebas Neue', cursive;
     background-color: darkgrey;
     margin: 25px;
     width: 100%;
@@ -29,7 +24,6 @@ header, .headerprincipal{
 .main1 {
     display: grid;
     grid-template-areas: 
-    "header lista"
     "img titulo2"
     "img texto"
     ;
